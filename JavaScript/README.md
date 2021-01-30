@@ -1,4 +1,4 @@
-# Amo_Progamar
+# Amo_Programar
 
 Projeto Inicial em JavaScript CSS HTML
 
